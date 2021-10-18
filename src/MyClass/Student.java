@@ -17,4 +17,6 @@ public class Student {
     public void Study() {
         System.out.println("天天向上！");
     }
+
+
 }
